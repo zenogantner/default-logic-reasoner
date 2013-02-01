@@ -1,0 +1,5 @@
+D T a a
+D T b b
+D T c c
+W (b->(~a*~c))
+# gesuchte Erweiterungen: (1, 3), (2)

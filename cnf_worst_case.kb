@@ -1,0 +1,15 @@
+# Gibt eine Konjunktion von 4 iterierten Disjunktionen
+(a<->b)
+# test case
+((a<->b)+c)
+# another test case
+(c+(a<->b))
+((a<->b)+(c<->d))
+
+
+
+
+((((a<->b)+(c<->d))+((e<->f)+(g<->h)))+(((i<->j)+(k<->l))+((m<->n)+(o<->p))))
+#real    25m7.455s
+#user    13m30.100s
+#sys     0m6.680s

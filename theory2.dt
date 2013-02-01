@@ -1,0 +1,4 @@
+D a b ~b
+# gesuchte Erweiterung:
+# Th(0), da Regel aufgrund des Fehlens von a im Hintergrundwissen
+# nicht anwendbar.
