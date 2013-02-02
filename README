@@ -8,6 +8,8 @@ Nebel, Stefan Wölfl, and Jussi Rintanen.
 The program needs zchaff, which used to be non-free.
 Instead, one could also call a free solver, e.g. MiniSAT.
 
+http://en.wikipedia.org/wiki/Default_logic
+
 Sorry, the rest of the documentation is in German.
 
 This is free software: you can redistribute it and/or modify
